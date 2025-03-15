@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" color="#36BCF7FF">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Tien,+a+Frontend+Developer+:3;" width="500" height="80">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Tien,+a+Frontend+Developer;" width="500" height="80">
 </div>
 
 <h3 aligh="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...</h2>
@@ -90,7 +90,7 @@ I am a passionate developer with hands-on experience in React and Next.js throug
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
 
   
-<h3 aligh="left"><img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> Contact with me :3</h2>
+<h3 aligh="left"><img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> Contact with me</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 
