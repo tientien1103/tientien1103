@@ -11,7 +11,7 @@
 <h3 aligh="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px alt="Unicorn" src="assets/download.jpg" alt="cat"/>
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif?cid=ecf05e47p8rhr0k3qfr16rpspvhui63j5uqn0lhngrn00yes&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="cat"/>
 
 I am a passionate developer with hands-on experience in React and Next.js through personal projects. Eager to learn and adapt, I bring dedication, creativity, and a strong ability to grasp new technologies, ready to take on any challenge with confidence.
 
@@ -21,7 +21,7 @@ I am a passionate developer with hands-on experience in React and Next.js throug
 &nbsp;
 - 💬 Don't hesitate to reach out — I’m happy to share what I know and help when I can!
 &nbsp;
-- 🎮 Outside of work, I enjoy playing games, listening to music, spending time with friends, and chilling at cafés whenever I have free time.
+- 🎮 Outside of work, I enjoy playing games, listening to music, spending time with friends.
 &nbsp;
 - 📫 Reach out to me at: <a href="le.nttien99@gmail.com">le.nttien99@gmail.com</a>
 <br>
