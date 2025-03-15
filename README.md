@@ -15,10 +15,14 @@
 
 I am a passionate developer with hands-on experience in React and Next.js through personal projects. Eager to learn and adapt, I bring dedication, creativity, and a strong ability to grasp new technologies, ready to take on any challenge with confidence.
 
-📚 I'm focusing on learning and improving my skills in Next.js, TypeScript, and Node.js.
-🚀 I'm always ready to take part in new projects and explore exciting opportunities.
-💬 Don't hesitate to reach out — I’m happy to share what I know and help when I can!
-🎮 Outside of work, I enjoy playing games, listening to music, spending time with friends, and chilling at cafés whenever I have free time.
+- 📚 I'm focusing on learning and improving my skills in Next.js, TypeScript, and Node.js.
+&nbsp;
+- 🚀 I'm always ready to take part in new projects and explore exciting opportunities.
+&nbsp;
+- 💬 Don't hesitate to reach out — I’m happy to share what I know and help when I can!
+&nbsp;
+- 🎮 Outside of work, I enjoy playing games, listening to music, spending time with friends, and chilling at cafés whenever I have free time.
+&nbsp;
 - 📫 Reach out to me at: <a href="le.nttien99@gmail.com">le.nttien99@gmail.com</a>
 <br>
 
