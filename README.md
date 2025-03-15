@@ -98,7 +98,7 @@ I am a passionate developer with hands-on experience in React and Next.js throug
 <div align="center">
 
  
-  <a href="https://www.linkedin.com/in/lnttien/" target="blank">
+  <a href="https://www.linkedin.com/in/lnttien/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tientien1103-linkedin" />
   </a>
 <!--   <a href="https://www.facebook.com/profile.php?id=100011436148089" target="blank">
