@@ -11,7 +11,7 @@
 <h3 aligh="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="assets/download.jpg" alt="cat"/>
 
 I am a passionate developer with hands-on experience in React and Next.js through personal projects. Eager to learn and adapt, I bring dedication, creativity, and a strong ability to grasp new technologies, ready to take on any challenge with confidence.
 
